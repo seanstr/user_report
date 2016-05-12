@@ -1,0 +1,7 @@
+==User Report
+
+This Ruby script is meant to showcase Ruby code.
+
+This script simply connects to a Joomla MySQL database, runs a time-based query, and saves the data in a CSV file.
+
+For data created by Joomla plugins, the data is often stored in large text column containing JSON data, so there is a section where fields are converted from JSON to flat strings.  Otherwise a very simple script.
